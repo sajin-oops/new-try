@@ -1,0 +1,43 @@
+.container{
+  background-color: rgb(20, 72, 72);
+  padding: 30px 100px;
+  border: 10px ridge;
+  border-radius:40px 40px ;
+  border-color: blacK;
+  margin: 20px 100px; 
+}
+.name{
+  background-color: rgb(20, 72, 72);
+  padding: 30px 100px;
+  border: 10px ridge;
+  border-radius: 10px;
+  border-color: blacK;
+  margin: 20px 100px; 
+}
+
+#third{
+  /* background-color: rgb(238, 246, 246); */
+  padding: 100px 20px;
+  color: brown;
+  border: 10px ridge;
+  border-color: rgb(7, 25, 57);
+  outline-style: solid;
+  outline-color: rgb(44, 138, 138);
+  background-image: url(/new\ 1img.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-origin: padding-box;
+}
+#hey{
+  color: aquamarine;
+  margin: 50px;
+  border:30px ridge;
+  padding: 30px;
+  border-color: black;
+  background-image: url(/newimg2.webp);
+  background-repeat: no-repeat;
+  background-size: 50% 50%;
+  /* background-position: right; */
+  background-origin: border-box;
+
+}
